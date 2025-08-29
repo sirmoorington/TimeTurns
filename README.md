@@ -16,10 +16,11 @@ From visiting dinosaurs to exploring ancient Egypt, the possibilities are endles
 
 ## Preview
 ![Main Page](TimeTurns/screenshots/main-site.png)
-![Buy Panels](screenshots/buy-panels.png)
-![Shopping Cart](screenshots/shopping-cart.png)
-![Complete Booking](screenshots/complete-booking.png)
-![Booking Information](screenshots/booking-information.png)
+![Buy Panels](TimeTurns/screenshots/buy-panels.png)
+![Shopping Cart](TimeTurns/screenshots/shopping-cart.png)
+![Complete Booking](TimeTurns/screenshots/complete-booking.png)
+![Booking Information](TimeTurns/screenshots/booking-information.png)
 
 
 ---
+
