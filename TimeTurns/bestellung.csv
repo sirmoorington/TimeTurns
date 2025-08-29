@@ -1,0 +1,634 @@
+
+
+Art.-Nr.;Artikel;Menge
+o_002;Birne;10
+
+bestellt von
+;;
+
+
+
+Art.-Nr.;Artikel;Menge
+o_001;Apfel;20
+o_003;Zwetschge;20
+
+bestellt von
+Leon;Görlich;Aurach
+
+
+
+Art.-Nr.;Artikel;Menge
+o_001;Apfel;20
+
+bestellt von
+;;j
+
+
+
+Art.-Nr.;Artikel;Menge
+
+bestellt von
+;;j
+
+
+
+Art.-Nr.;Artikel;Menge
+o_001;Apfel;80
+
+bestellt von
+Leon;Goerlich;Deiner Mutter
+
+
+
+Art.-Nr.;Artikel;Menge
+o_001;Apfel;70
+
+bestellt von
+Leon;Goerlich;Deiner Mutter
+
+
+
+Art.-Nr.;Artikel;Menge
+o_001;Apfel;50
+o_002;Birne;10
+o_003;Zwetschge;1
+o_004;Kirsche;10
+
+bestellt von
+Leon;G;
+
+
+
+Art.-Nr.;Artikel;Menge
+
+bestellt von
+d;d;d
+
+
+
+Art.-Nr.;Artikel;Menge
+
+bestellt von
+s;s;s
+
+
+
+Art.-Nr.;Artikel;Menge
+a_001;Ägypten Entdeckungstour;10
+a_003;Abenteuer in der Wüste;10
+a_002;Luxuriöse Nilkreuzfahrt;111110
+
+bestellt von
+1;1;1
+
+
+
+Art.-Nr.;Artikel;Menge
+a_001;Ägypten Entdeckungstour;10
+a_003;Abenteuer in der Wüste;10
+
+bestellt von
+;11;
+
+
+
+Art.-Nr.;Artikel;Menge
+a_001;Array;10
+a_003;Array;10
+
+bestellt von
+11;1;
+
+
+
+Art.-Nr.;Artikel;Menge
+a_001;Array;110
+a_003;Array;10
+
+bestellt von
+;a;
+
+
+
+Art.-Nr.;Artikel;Menge
+a_001;Array;10
+a_003;Array;10
+
+bestellt von
+L;Goerlich;Aurach
+
+
+
+Art.-Nr.;Artikel;Menge
+a_001;Array;10
+a_003;Array;10
+
+bestellt von
+L;Goerlich;Aurach
+
+
+
+Art.-Nr.;Artikel;Menge
+a_001;Array;10
+a_003;Array;10
+
+bestellt von
+s;s;s
+
+
+
+Art.-Nr.;Artikel;Menge
+a_001;Array;10
+a_003;Array;10
+
+bestellt von
+Leon;Goerlich;
+
+
+
+Art.-Nr.;Artikel;Menge
+a_001;Ägypten Entdeckungstour;10
+a_003;Abenteuer in der Wüste;10
+
+bestellt von
+Leon;Goerlich;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_001;Ägypten Entdeckungstour;10;5000
+a_003;Abenteuer in der Wüste;10;3000
+
+bestellt von
+Leon;Goerlich;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+Leon;Goerlich;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_001;Ägypten Entdeckungstour;10;5000
+a_003;Abenteuer in der Wüste;10;3000
+
+bestellt von
+Leon;Goerlich;Aurach
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_001;Ägypten Entdeckungstour;10;5000
+a_002;Luxuriöse Nilkreuzfahrt;20;16000
+a_003;Abenteuer in der Wüste;10;3000
+
+bestellt von
+Leon;Goerlich;Aurach
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+Leon;Goerlich;Aurach
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+Leon;Goerlich;Aurach
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+Leon;Goerlich;Aurach
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_001;Ägypten Entdeckungstour;1;500
+a_003;Abenteuer in der Wüste;1;300
+
+bestellt von
+;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_001;Ägypten Entdeckungstour;10;5000
+
+bestellt von
+l;gw;w
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+l;gw;w
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;s
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+w;ww;w;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_001;Ägypten Entdeckungstour;10;5000
+
+bestellt von
+LEON;G;AURACH;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+LEON;G;AURACH;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_001;Ägypten Entdeckungstour;10;5000
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_001;Ägypten Entdeckungstour;10;5000
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+LEON;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+LEON;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+s;s;s;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_001;Ägypten Entdeckungstour;10;5000
+a_002;Luxuriöse Nilkreuzfahrt;1110;888000
+a_003;Abenteuer in der Wüste;999;299700
+
+bestellt von
+Leon;Görlich;Bergstraße 13, 91589 Aurach;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+Leon;Görlich;Bergstraße 13, 91589 Aurach;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_001;Ägypten Entdeckungstour;10;5000
+a_002;Luxuriöse Nilkreuzfahrt;1110;888000
+a_003;Abenteuer in der Wüste;999;299700
+
+bestellt von
+Leon;Görlich;Bergstraße 13, 91589 Aurach;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_001;Ägypten Entdeckungstour;10;5000
+a_002;Luxuriöse Nilkreuzfahrt;1110;888000
+a_003;Abenteuer in der Wüste;999;299700
+
+bestellt von
+LEON;Görlich;Aufjedenfall;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+LEON;Görlich;Aufjedenfall;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_001;Ägypten Entdeckungstour;10;5000
+a_002;Luxuriöse Nilkreuzfahrt;20;16000
+a_003;Abenteuer in der Wüste;10;3000
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_001;Ägypten Entdeckungstour;10;5000
+a_002;Luxuriöse Nilkreuzfahrt;20;16000
+a_003;Abenteuer in der Wüste;2;600
+
+bestellt von
+LEON;Görlich;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+LEON;Görlich;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+LEON;Görlich;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_001;Ägypten Entdeckungstour;50;25000
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_001;Ägypten Entdeckungstour;1600;800000
+a_002;Luxuriöse Nilkreuzfahrt;20;16000
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_002;Luxuriöse Nilkreuzfahrt;320;256000
+a_003;Abenteuer in der Wüste;20;6000
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_001;Ägypten Entdeckungstour;80;40000
+a_002;Luxuriöse Nilkreuzfahrt;0;0
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_001;Ägypten Entdeckungstour;2;1000
+a_002;Luxuriöse Nilkreuzfahrt;15;12000
+a_003;Abenteuer in der Wüste;1;300
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_002;Luxuriöse Nilkreuzfahrt;119;95200
+a_001;Ägypten Entdeckungstour;1;500
+a_003;Abenteuer in der Wüste;67437687843684351;2.0231306353105E+19
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_001;Ägypten Entdeckungstour;1;500
+a_003;Abenteuer in der Wüste;67437687843684351;2.0231306353105E+19
+a_002;Luxuriöse Nilkreuzfahrt;1;800
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_001;Ägypten Entdeckungstour;1;500
+a_002;Luxuriöse Nilkreuzfahrt;1;800
+a_003;Abenteuer in der Wüste;1;300
+
+bestellt von
+Leon;Görlich;Bergstraße 13, Aurach;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_003;Abenteuer in der Wüste;1;300
+
+bestellt von
+Leon;Görlich;Bergstraße 13, Aurach;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+bestellt von
+;;;
+
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_002;Luxuriöse Nilkreuzfahrt;1;800
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+
+Art.-Nr.;Artikel;Menge;Preis
+
+
+Art.-Nr.;Artikel;Menge;Preis
+a_001;Ägypten Entdeckungstour;1;500
+a_002;Luxuriöse Nilkreuzfahrt;5;4000
+a_003;Abenteuer in der Wüste;1;300
